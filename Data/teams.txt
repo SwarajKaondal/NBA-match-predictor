@@ -41,7 +41,6 @@ MEM,Memphis,Grizzlies,N
 MFL,Miami,Floridians,A
 MI1,Milwaukee,Hawks,N
 MIA,Miami,Heat,N
-MIE,Minneapolis,Lakers,N
 MIL,Milwaukee,Bucks,N
 MIN,Minnesota,Timberwolves,N
 MMP,Memphis,Pros,A
@@ -52,7 +51,7 @@ MNP,Minnesota,Pipers,A
 NJA,New Jersey,Americans,A
 NJN,New Jersey,Nets,N
 NOB,New Orleans,Buccaneers,A
-NOH,New Orleans,Hornets,N
+NOH,New Orleans,Pelicans,N
 NOJ,New Orleans,Jazz,N
 NYK,New York,Knicks,N
 NYN,New York,Nets,A
@@ -63,7 +62,7 @@ PH1,Philadelphia,Warriors,N
 PHI,Philadelphia,76ers,N
 PHO,Phoenix,Suns,N
 PIT,Pittsburgh,Ironmen,N
-POR,Portland,Trailblazers,N
+POR,Portland,TrailBlazers,N
 PRO,Providence,Steamrollers,N
 PTC,Pittsburgh,Pipers,A
 PTP,Pittsburgh,Pipers,A
@@ -75,7 +74,7 @@ SDC,San Diego,Clippers,N
 SDQ,San Diego,Conquistadors,A
 SDR,San Diego,Rockets,N
 SDS,San Diego,Sails,A
-SEA,Seattle,Supersonics,N
+SEA,Seattle,Thunder,N
 SFW,San Francisco,Warriors,N
 SHE,Sheboygan,Redskins,N
 ST1,St. Louis,Bombers,N
